@@ -6,9 +6,11 @@ The populated HTML file will contain contact information of the team members, wh
 
 ## Screenshot
 
+![Screenshot](test.jpeg)
 
+![Screenshot](input.jpeg)
 
-
+![Screenshot](screenshot.jpeg)
 
 ## User Story
 
@@ -34,4 +36,4 @@ Detailed instructions will be included in the demo video.
 
 ## Instruction
 
-![https://drive.google.com/file/d/1INaOISQtZmn5jTXenVsGroiaQcMo2R5r/view]
+https://drive.google.com/file/d/1INaOISQtZmn5jTXenVsGroiaQcMo2R5r/view
